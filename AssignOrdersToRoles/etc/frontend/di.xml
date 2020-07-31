@@ -1,0 +1,3 @@
+<type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+      <plugin name="assign_orders_to_roles" type="Solwin\AssignOrdersToRoles\Plugins\AssignOrdersToRoles" sortOrder="100" />
+</type>
